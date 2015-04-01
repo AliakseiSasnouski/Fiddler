@@ -1,0 +1,11 @@
+GET http://10.160.52.231:999/chat?token=TN43EN HTTP/1.1
+User-Agent: Composer
+Host: 10.160.52.231:999
+
+
+HTTP/1.1 200 OK
+Date: Tue, 31 Mar 2015 15:17:55 GMT
+Access-control-allow-origin: *
+Content-length: 39
+
+{"messages":["saknd"],"token":"TN19EN"}

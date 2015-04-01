@@ -1,0 +1,13 @@
+POST http://10.160.52.231:999/chat HTTP/1.1
+User-Agent: Composer
+Host: 10.160.52.231:999
+Content-Length: 26
+
+{"message":"hasgdhjsadas"}
+HTTP/1.1 200 OK
+Date: Tue, 31 Mar 2015 15:32:05 GMT
+Transfer-encoding: chunked
+Access-control-allow-origin: *
+
+0
+
